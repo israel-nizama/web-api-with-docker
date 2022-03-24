@@ -1,7 +1,7 @@
 # web-api-with-docker
 Demo to deploy a web API in a local development environment
 
-Este repositorio contiene una aplicación backend en .Net Core 5.0 de ejemplo con conección a una base de datos MSSQL 2019 que simula un microservicio que expone un Web API con un solo endpoint en la ruta /WeatherForecast y su documentación swagger en la rute /swagger.
+Este repositorio contiene una aplicación backend en .Net Core 5.0 de ejemplo con conección a una base de datos MSSQL 2019 que simula un microservicio que expone un Web API con un solo endpoint en la ruta **/WeatherForecast** y su documentación swagger en la ruta **/swagger**.
 
 ## Dockerfiles
 
