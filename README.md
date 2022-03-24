@@ -15,7 +15,7 @@ Contiene las instrucciones para generar la imagen de la base de datos MSSQL 2019
 Archivo en formato YAML que describe la solución que despliega los contenedores para la aplicación backend y la base de datos que usa. Para ejecuar este archivo usar las siguientes instrucciones.
 
 Para construir la imagenes ejecutar los contenedores:
-$ docker-compose up -d
+> $ docker-compose up -d
 
 Para detener los contenedore:
-$ docker.compose down
+> $ docker-compose down
